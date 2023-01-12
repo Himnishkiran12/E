@@ -1,12 +1,7 @@
 body
 {
   color: white;
-  background: url(https://th.bing.com/th/id/OIP.1mKk6RL8uW5USPbSOLLFqgHaEo?pid=ImgDet&rs=1);
-  background-size:cover ;
-  font-family: 'Merienda', cursive;
-}
-#head{
-  font-family: 'Fugaz One', cursive;
+  background: #c0d3ff;
 }
 span
 {
